@@ -9,3 +9,5 @@ Colors are matched from pretrained Hayao .pth weights https://github.com/ptran12
 Bot is made via telebot and uses global states to define which model to use to evaluate needed output.
 
 It is hosted on private server for easier handling, so it is available by request only.
+
+PART OF THIS CODE IS FROM @ptran1203 github (AnimeGAN model)
