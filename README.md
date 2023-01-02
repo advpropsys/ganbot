@@ -7,3 +7,5 @@ To start, select what you want to do: Neural Transfer style via pretrained model
 Colors are matched from pretrained Hayao .pth weights https://github.com/ptran1203/pytorch-animeGAN or Chainsawman weights which i got after training AnimeGAN on first season of CSM.
 
 Bot is made via telebot and uses global states to define which model to use to evaluate needed output.
+
+It is hosted on private server for easier handling, so it is available by request only.
