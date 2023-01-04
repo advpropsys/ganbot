@@ -1,6 +1,9 @@
 # ganbot
 ## Bot to make using Neural Transfer and GAN processing easier
-The video of bot working can be found here:
+The screenshots of bot working can be found here:
+<img width="735" alt="image" src="https://user-images.githubusercontent.com/113827076/210513233-38536381-74bb-48d2-aa9f-b1faf8191a3a.png">
+
+<img width="736" alt="image" src="https://user-images.githubusercontent.com/113827076/210513331-2c16a2ed-e5b8-4381-a437-b38f498cd429.png">
 
 To start, select what you want to do: Neural Transfer style via pretrained model from tensorflow-hub based on VGG19 or Create anime art.
 
